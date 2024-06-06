@@ -1,16 +1,20 @@
 # CV_Pavel_Kriuchkov
 Hello! Here is my PDF CV. <br>
 
-<b> I am a goal-oriented senior student and a junior+ mobile (Flutter) software developer pursuing a career in the fields of IT </b>
+https://www.linkedin.com/in/pavel-kriuchkov01/
+
+<b> A goal-oriented Mobile Software Developer with a strong foundation in Computer Science.  Able to effectively self-manage during independent projects, as well as collaborate in a team setting.  </b>
 
 ## Some Facts About Me:
-- Senior undergraduate student in Applied Informatics in Economics (Far Eastern Federal University, Vladivostok, Russia);
+- BS in Applied Informatics in Economics (Far Eastern Federal University, Vladivostok, Russia);
 - Studied in KVCC, MI, USA (Python Programming CIS150, Marketing and Business);
-- Favorite programming language - Python;
+- Favorite programming language - Dart;
 - 4+ years programming experience in different languages;
 - 3+ years of investment and trading experience (the best yield is about 40% per year);
 - Goal-oriented, communicative, responsible.
 ## Technological Stack:
+Proficient in Dart/Flutter, and various patterns, frameworks, and tools like BloC/Provider, GetIt, Dio, HTTP, WebSocket, SQLite, Retrofit, Drift, build_value, auto_router, Google ML-kit, Yandex-map-kit, AppMetrica and others.
+Python (ML+AI), Web-Dev, Databases (SQL), GIT/GitHub.
 - <i> Back-end </i>: Python (Flask);
 - <i> Machine Learning </i>: Python (Numpy, Pandas, SKlearn, TensorFlow);
 - <i> DB: </i></i> SQL; SQLite; SQLAlchemy;
